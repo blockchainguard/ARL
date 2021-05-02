@@ -31,6 +31,7 @@ docker-compose up -d
 ### 截图
 登录页面，默认用户名密码admin/arlpass  
 ![登录页面](./image/login.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblockchainguard%2FARL.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblockchainguard%2FARL?ref=badge_shield)
 
 任务页面
 ![任务页面](./image/task.png)
@@ -145,3 +146,7 @@ docker-compose up -d
 
 目前ARL仅仅只是完成了对资产的部分维度的发现和收集，自动发现过程中难免出现覆盖度不全、不精准、不合理等缺陷的地方还请反馈至我们。  
 后续还有更多有意思的功能，如资产管理、监控部分等功能，敬请期待。 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblockchainguard%2FARL.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblockchainguard%2FARL?ref=badge_large)
